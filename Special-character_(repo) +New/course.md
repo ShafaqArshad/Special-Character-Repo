@@ -1,4 +1,4 @@
-courseName: Special-character_(repo) + New
+courseName: Special-character_(repo) +New
 description: New Multiple Course For Test
 isAvailable: true
 isPremium: true
